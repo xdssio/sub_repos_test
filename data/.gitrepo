@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://xethub.com/xdssio/kickstart_data
+	branch = main
+	commit = 3f4dfa145b7032856aef5faa09e2df16425ba0f7
+	parent = 96fcccf023ce0bc6b83caed6682e874ab9373676
+	method = merge
+	cmdver = 0.4.6
